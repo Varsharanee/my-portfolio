@@ -1,0 +1,68 @@
+{
+    "portfolio": [
+        {
+            "id":"1",
+            "image": "images/portfolio-img1.jpg",
+            "projectName": "Estate View",
+            "technology": "React js, SQL",
+            "className": "col-md-4 col-xs-6 wow fadeIn",
+            "link":"https://www.augmentworks.com/portfolio/estate-view/project/lsn1lgoy"
+        },
+        {
+            "id":"2",
+            "image": "images/job-portal.webp",
+            "projectName": "Edujobs.ai",
+            "technology": "Next js, mongodb",
+            "className": "col-md-4 col-xs-6 wow fadeIn",
+            "link":"https://edujobs.ai/"
+        },
+        {
+            "id":"3",
+            "image": "images/portfolio-img3.jpg",
+            "projectName": "Web Tools for Real Estate",
+            "technology": "HTML, CSS, Bootstrap",
+            "className": "col-md-4 col-xs-6 wow fadeIn",
+            "link":"https://www.augmentworks.com/portfolio/web-tool/villa.html"
+        },
+        {
+            "id":"4",
+            "image": "images/portfolio-img4.jpg",
+            "projectName": "Kulkarnni",
+            "technology": "React js, node js, mongodb",
+            "className": "col-md-4 col-xs-6 wow fadeIn",
+            "link":"http://kulkarnni.com/"
+        },
+        {
+            "id":"5",
+            "image": "images/portfolio-img5.jpg",
+            "projectName": "Web AR",
+            "technology": "Laravel, Mind AR, Three js, SQL",
+            "className": "col-md-4 col-xs-6 wow fadeIn",
+            "link":"https://techfirki.com/webAR/public/"
+        },
+        {
+            "id":"7",
+            "image": "images/portfolio-img5.jpg",
+            "projectName": "AR Surprise",
+            "technology": "Laravel, Mind AR, SQL",
+            "className": "col-md-4 col-xs-6 wow fadeIn",
+            "link":"http://techfirki.com/ar_surprise/public/ar_demo/01"
+        },
+        {
+            "id":"6",
+            "image": "images/portfolio-img5.jpg",
+            "projectName": "Model Viewer",
+            "technology": "HTML, CSS, JS , model viewer (Library)",
+            "className": "col-md-6 col-xs-6 wow fadeIn",
+            "link":""
+        },
+        {
+            "id":"8",
+            "image": "images/portfolio-img5.jpg",
+            "projectName": "E Compliance Hub",
+            "technology": "Codeigniter 4, SQL",
+            "className": "col-md-6 col-xs-6 wow fadeIn",
+            "link":"https://augmentworks.com/hub/"
+        }
+    ]
+}
